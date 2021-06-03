@@ -1,6 +1,6 @@
 ### Hi there fellow Coders 👋
 
-I'm a Senior at the University of Massachusetts Lowell completing my Bachelor's in Computer Science. I primarily write code in C++, but have experience in Python, RobotFramework, and SQL. I use GitHub to work on projects for myself and for school!
+I'm a Graduate from the University of Massachusetts Lowell with a Bachelor's in Computer Science. I primarily write code in Python, but have experience in C++, RobotFramework, and SQL. I use GitHub to work on projects for myself and for school!
 
 ### Contact Information
 - LinkedIn: [/in/nathan-lamberson](https://www.linkedin.com/in/nathan-lamberson/)
