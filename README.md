@@ -1,6 +1,26 @@
 ### Hi there fellow Coders 👋
 
-I'm a graduate from the University of Massachusetts Lowell with a Bachelor's in Computer Science. I primarily write code in Java & JavaScript for work, but also have experience in Python & C++, RobotFramework, and SQL. I use GitHub to work on projects for myself and for school!
+### 🧑🏻‍💻 About Me
+I'm a Software Engineer who primarily works on backend tools, but also have some experience on frontend. 
+
+I graduated from the University of Massachusetts Lowell with a BS in Computer Science. 
+
+My hobbies include: hockey, baseball, computers, music, the gym, and video games.
+
+### 🛠️ Tech Stack
+At work I have used:
+- Java
+- Spring Boot
+- JavaScript
+- React
+- SQL
+- Snowflake
+- RabbitMQ
+
+In my free time I have learned:
+- Python
+- TypeScript
+- C++
 
 ### Contact Information
 - LinkedIn: [/in/nathan-lamberson](https://www.linkedin.com/in/nathan-lamberson/)
