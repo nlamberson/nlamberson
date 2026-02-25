@@ -1,9 +1,7 @@
-### Hi there fellow Coders 👋
-
 ### 🧑🏻‍💻 About Me
 I'm a Software Engineer who primarily works on backend tools, but also have some experience on frontend. 
 
-I graduated from the University of Massachusetts Lowell with a BS in Computer Science. 
+I graduated from the University of Massachusetts Lowell in 2021 with a BS in Computer Science. 
 
 My hobbies include: hockey, baseball, computers, music, the gym, and video games.
 
